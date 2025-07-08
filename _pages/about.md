@@ -6,9 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am an undergraduate research assistant in the [Geometric Learning Lab](https://robinwalters.com) at Northeastern University under Robin Walters. My research combines geometric deep learning methods with problems in physics and math.
+Hello! I am an undergraduate research assistant in the [Geometric Learning Lab](https://robinwalters.com) at Northeastern University under Robin Walters. My research combines geometric deep learning methods with problems in physics and math. 
 
 I have previously worked on physics-informed neural networks for [periodic quantum systems](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_165.pdf). Much of my current work involves the intersection of machine learning and mathematics, specifically in developing [ML tools for math research](https://arxiv.org/abs/2501.09571). I am also working on efficient [equivariant property prediction models](https://github.com/circee/cv/blob/main/BosSym_2025_Relaxed_SEGNN_Poster-1.png) leveraging the inherent symmetries of crystals.
+
+I am starting full-time as a machine learning research scientist at [Matterworks](https://www.matterworks.ai/) in August 2025.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
