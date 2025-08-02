@@ -41,16 +41,13 @@ I am a Mathematics B.S. student at Northeastern University currently working in 
 ## Education
 
 **Northeastern University** | Boston, MA  
-BS, Mathematics | *August 2025 (Expected)*
-
-**Bunker Hill Community College** | Boston, MA  
-AA, Mathematics | *2022*
+BS, Mathematics 2025
 
 ## Publications
 
-**Laird, L, Hsu, C, Bapat, A, Walters, R.** 2024. MatrixNet: Learning over symmetry groups using learned group representations. The 38th Annual Conference on Neural Information Processing Systems [[Paper](https://arxiv.org/abs/2501.09571)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94510.png?t=1731716763.7549546)] [[Code](https://github.com/lucas-laird/MatrixNet)]
+Laird, L, **Hsu, C**, Bapat, A, Walters, R. 2024. MatrixNet: Learning over symmetry groups using learned group representations. The 38th Annual Conference on Neural Information Processing Systems [[Paper](https://arxiv.org/abs/2501.09571)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/94510.png?t=1731716763.7549546)] [[Code](https://github.com/lucas-laird/MatrixNet)]
 
-**Hsu, C, Mattheakis, M, Schleder, G, Larson, D.** 2024. Equation-driven Neural Networks for Periodic Quantum Systems. ML4PS Workshop at NeurIPS [[Paper](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_165.pdf)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/99978.png?t=1733102231.8344166)] [[Code](https://github.com/circee/blochnet)]
+**Hsu, C**, Mattheakis, M, Schleder, G, Larson, D. 2024. Equation-driven Neural Networks for Periodic Quantum Systems. ML4PS Workshop at NeurIPS [[Paper](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_165.pdf)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/99978.png?t=1733102231.8344166)] [[Code](https://github.com/circee/blochnet)]
 
 ## Technical Skills
 
