@@ -24,7 +24,7 @@ author:
   avatar           : "circe.png"
   name             : "Circe Hsu"
   pronouns         : "she/her"  
-  bio              : "I am an undergraduate research assistant in the Geometric Learning Lab at Northeastern University under Robin Walters. My research combines geometric deep learning methods with problems in physics and math."
+  bio              : "Machine Learning Scientist at Matterworks"
   location         : "Boston, MA"
   employer         : "Northeastern University"
   uri              : # URL
@@ -37,7 +37,7 @@ author:
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Circe-Hsu-2"
+  researchgate     : #"https://www.researchgate.net/profile/Circe-Hsu-2"
   scopus           : # URL
 
   # Repositories and software development
