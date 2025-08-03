@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Circe Hsu"
 title_separator          : "-"
-name                     : &name "Circe Hsu"
+name                     : &name "ML Researcher at Matterworks"
 description              : &description "personal description"
 url                      : https://nullspac.es # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
